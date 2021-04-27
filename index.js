@@ -1,4 +1,3 @@
 function shout(string){
-  return shout.toUpperCase();
+  return string.toUpperCase();
 }
-console.log(shout('Hello'));
